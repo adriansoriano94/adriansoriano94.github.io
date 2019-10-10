@@ -1,10 +1,10 @@
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 /* CSS Document */
 body{
 	color: #555;
 	margin: 0;
-	font-family: "Montserrat", sans-seriff;
+	font-family: 'Montserrat', sans-serif;
 }
 #header{
 	background-color: #1abc9c;
